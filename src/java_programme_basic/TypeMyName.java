@@ -5,6 +5,7 @@ public class TypeMyName {
 	public static void main(String[] args) {
 	
 		System.out.println("pallavi Jadhav");
+		System.out.println("Priya Isalkar");
 
 	}
 
