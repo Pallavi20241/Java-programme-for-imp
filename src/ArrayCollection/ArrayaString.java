@@ -9,6 +9,10 @@ public class ArrayaString {//basic array String programme
 		flowers[1]="Marigold";
 		flowers[2]="Lily";
 		flowers[3]="Sunflower";
+		for (String x:flowers) {
+			
+			System.out.println(x);
+		}
 	}
 
 }
